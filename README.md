@@ -1,19 +1,36 @@
-<h1 align="center">Hi there 👋, my name is Vojtěch Perník</h1>
-
-<p align="center">My name is <strong>Vojtěch Perník</strong> and I'm 14 years old. I&nbsp;like to use a nickname <strong>pervoj</strong>. I&nbsp;am from Czech Republic. My big hobby is programming. I&nbsp;can program in Java and PHP, and currently I&nbsp;am learning Vala. I&nbsp;am Linux user.</p>
-
 <p align="center"><img src="assets/bitmoji.png" height="200px" width="200px"></p>
+<h1 align="center">Hi there 👋, my name is Vojtěch Perník</h1>
+<h3 align="center">FOSS developer, user and translator</h3>
+<p align="center">
+  <a href="mailto:info@pervoj.cz">
+    <img src="https://img.shields.io/badge/Email-info%40pervoj.cz-blue?style=social&logo=mail.ru&logoColor=005FF9" height="25px">
+  </a>
+  &ensp;
+  <a href="https://discordapp.com/users/641536036169711617">
+    <img src="https://img.shields.io/badge/Discord-%40pervoj%20%232542-blue?style=social&logo=discord&logoColor=5865F2" height="25px">
+  </a>
+  &ensp;
+  <a href="https://gitter.im/pervoj">
+    <img src="https://img.shields.io/badge/Gitter-%40pervoj-blue?style=social&logo=gitter&logoColor=ED1965" height="25px">
+  </a>
+</p>
+<br>
 
-<p align="center">Here, on my GitHub, you can find all of my projects. I love the vision of open source software and also all my projects are open source.</p>
+My name is <strong>Vojtěch Perník</strong> and I'm 14 years old. I&nbsp;like to use a nickname <strong>pervoj</strong>. I&nbsp;am from Czech Republic. My big hobby is programming. I&nbsp;can program in Java and PHP, and currently I&nbsp;am learning Vala. I&nbsp;am Linux user.
+
+I'm also a freelance translator. I translate open source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
+
+Here, on my GitHub, you can find all of my projects. I love the vision of open source software and also all my projects are open source.
 
 - 🔭 I’m currently working on:
   - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo)
   - [VocaPad](https://github.com/vocapad) – simple and open source vocabulary notebook
+  - Transganizer – organization aplication for translators
 - 🌱 I’m currently learning Vala and Angular with Node.js.
-- 👯 I’m looking to collaborate on projects that need Czech translation. And also on some simple ones that I can understand...
-- 📫 You can reach me at [email](mailto:info@pervoj.cz) or [Discord](https://discordapp.com/users/641536036169711617).
+- 👯 I’m looking to collaborate on projects that need Czech translation. And also on some simple ones that I can understand and contribute to code.
+- 🙂 Pronouns: **he/him**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pervoj&theme=react&show_icons=true" alt="pervoj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervoj&theme=react&layout=compact" alt="pervoj">
+  <img src="https://github-readme-stats.vercel.app/api?username=pervoj&theme=react&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervoj&theme=react&layout=compact">
 </p>
