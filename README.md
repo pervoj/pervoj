@@ -32,6 +32,5 @@ Here, on my GitHub, you can find all of my projects. I love the vision of open s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pervoj&theme=react&show_icons=true">
-  &ensp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervoj&theme=react&layout=compact">
 </p>
