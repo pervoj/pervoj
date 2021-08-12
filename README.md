@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/bitmoji.png" height="200px" width="200px"></p>
 <h1 align="center">Hi there 👋, my name is Vojtěch Perník</h1>
-<h3 align="center">FOSS developer, user and translator</h3>
+<h3 align="center">FOSS user, developer and translator</h3>
 <p align="center">
   <a href="mailto:info@pervoj.cz">
     <img src="https://img.shields.io/badge/Email-info%40pervoj.cz-blue?style=social&logo=mail.ru&logoColor=005FF9" height="25px">
