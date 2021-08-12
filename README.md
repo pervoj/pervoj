@@ -25,7 +25,7 @@ Here, on my GitHub, you can find all of my projects. I love the vision of open s
 - 🔭 I’m currently working on:
   - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo)
   - [VocaPad](https://github.com/vocapad) – simple and open source vocabulary notebook
-  - Transganizer – organization aplication for translators
+  - [Transganizer](https://github.com/transganizer) – organization aplication for translators
 - 🌱 I’m currently learning Vala and Angular with Node.js.
 - 👯 I’m looking to collaborate on projects that need Czech translation. And also on some simple ones that I can understand and contribute to code.
 - 🙂 Pronouns: **he/him**
