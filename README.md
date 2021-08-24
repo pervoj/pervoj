@@ -30,6 +30,28 @@ Here, on my GitHub, you can find all of my projects. I love the vision of open s
 - 👯 I’m looking to collaborate on projects that need Czech translation. And also on some simple ones that I can understand and contribute to code.
 - 🙂 Pronouns: **he/him**
 
+<details>
+  <summary>Projects I've translated</summary>
+  <table>
+    <tr>  <th>Original project name</th>  <th>Czech project name</th>  <th>Project homepage</th>  </tr>
+    <tr>  <td>Badger</td>  <td>Badger</td>  <td>https://github.com/elfenware/badger</td>  </tr>
+    <tr>  <td>Blanket</td>  <td>Deka</td>  <td>https://github.com/rafaelmardojai/blanket</td>  </tr>
+    <tr>  <td>Bottles</td>  <td>Láhve</td>  <td>https://github.com/bottlesdevs/Bottles</td>  </tr>
+    <tr>  <td>Breathing</td>  <td>Dýchání</td>  <td>https://github.com/SeaDve/Breathing</td>  </tr>
+    <tr>  <td>Commit</td>  <td>Commit</td>  <td>https://github.com/sonnyp/Commit</td>  </tr>
+    <tr>  <td>Dialect</td>  <td>Dialekt</td>  <td>https://github.com/dialect-app/dialect</td>  </tr>
+    <tr>  <td>Drawing</td>  <td>Kreslení</td>  <td>https://github.com/maoschanz/drawing</td>  </tr>
+    <tr>  <td>Dynamic Wallpaper Editor</td>  <td>Editor dynamických tapet</td>  <td>https://github.com/maoschanz/dynamic-wallpaper-editor</td>  </tr>
+    <tr>  <td>Kooha</td>  <td>Kooha</td>  <td>https://github.com/SeaDve/Kooha</td>  </tr>
+    <tr>  <td>Mousai</td>  <td>Mousai</td>  <td>https://github.com/SeaDve/Mousai</td>  </tr>
+    <tr>  <td>Share Preview</td>  <td>Náhled sdílení</td>  <td>https://github.com/rafaelmardojai/share-preview</td>  </tr>
+    <tr>  <td>Video Downloader</td>  <td>Stahovač videa</td>  <td>https://github.com/Unrud/video-downloader</td>  </tr>
+    <tr>  <td>Webfont Kit Generator</td>  <td>Generátor webových sad písem</td>  <td>https://github.com/rafaelmardojai/webfont-kit-generator</td>  </tr>
+    <!-- <tr>  <td></td>  <td></td>  <td></td>  </tr> -->
+  </table>
+  <p>If you find an mistake in any of my translations, let me know at <a href="mailto:translations@pervoj.cz">translations@pervoj.cz</a>.</p>
+</details>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pervoj&theme=react&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervoj&theme=react&layout=compact">
