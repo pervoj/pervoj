@@ -45,7 +45,7 @@ Here, on my GitHub, you can find all of my projects. I love the vision of open s
     <tr>  <td>Kooha</td>  <td>Kooha</td>  <td>https://github.com/SeaDve/Kooha</td>  </tr>
     <tr>  <td>Mousai</td>  <td>Mousai</td>  <td>https://github.com/SeaDve/Mousai</td>  </tr>
     <tr>  <td>Share Preview</td>  <td>Náhled sdílení</td>  <td>https://github.com/rafaelmardojai/share-preview</td>  </tr>
-    <tr>  <td>Video Downloader</td>  <td>Stahovač videa</td>  <td>https://github.com/Unrud/video-downloader</td>  </tr>
+    <tr>  <td>Video Downloader</td>  <td>Video Downloader</td>  <td>https://github.com/Unrud/video-downloader</td>  </tr>
     <tr>  <td>Webfont Kit Generator</td>  <td>Generátor webových sad písem</td>  <td>https://github.com/rafaelmardojai/webfont-kit-generator</td>  </tr>
     <!-- <tr>  <td></td>  <td></td>  <td></td>  </tr> -->
   </table>
