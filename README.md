@@ -18,9 +18,9 @@
 
 My name is <strong>Vojtěch Perník</strong> and I'm 14 years old. I&nbsp;like to use a nickname <strong>pervoj</strong>. I&nbsp;am from Czech Republic. My big hobby is programming. I&nbsp;can program in Java and PHP, and currently I&nbsp;am learning Vala. I&nbsp;am Linux user.
 
-I'm also a freelance translator. I translate open source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
+I'm also a freelance translator. I translate open-source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
 
-Here, on my GitHub, you can find all of my projects. I love the vision of open source software and also all my projects are open source.
+Here, on my GitHub, you can find all of my projects. I love the vision of open-source software and also all my projects are open source.
 
 - 🔭 I’m currently working on:
   - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo)
