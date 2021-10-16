@@ -20,7 +20,7 @@ My name is <strong>Vojtěch Perník</strong> and I'm 14 years old. I&nbsp;like t
 
 I'm also a freelance translator. I translate open-source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
 
-Here, on my GitHub, you can find all of my projects. I love the vision of open-source software and also all my projects are open source.
+Here, on my GitHub, you can find all of my projects. I love the vision of open-source software and also all my projects are open-source.
 
 - 🔭 I’m currently working on:
   - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo)
