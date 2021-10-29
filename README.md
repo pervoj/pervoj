@@ -3,7 +3,7 @@
 <h3 align="center">FOSS user, developer and translator</h3>
 <p align="center">
   <a href="mailto:info@pervoj.cz">
-    <img src="https://img.shields.io/badge/Email-info%40pervoj.cz-blue?style=social&logo=mail.ru&logoColor=005FF9" height="25px">
+    <img src="https://img.shields.io/badge/E--Mail-info%40pervoj.cz-blue?style=social&logo=mail.ru&logoColor=005FF9" height="25px">
   </a>
   &ensp;
   <a href="https://discordapp.com/users/641536036169711617">
