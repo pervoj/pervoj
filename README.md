@@ -7,7 +7,7 @@
   </a>
   &ensp;
   <a href="https://discordapp.com/users/641536036169711617">
-    <img src="https://img.shields.io/badge/Discord-%40pervoj%20%232542-blue?style=social&logo=discord&logoColor=5865F2" height="25px">
+    <img src="https://img.shields.io/badge/Discord-%40pervoj%20%237719-blue?style=social&logo=discord&logoColor=5865F2" height="25px">
   </a>
   &ensp;
   <a href="https://gitter.im/pervoj">
