@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=7P3BD55QX6B9J">
-    <img src="https://img.shields.io/badge/PayPal-donate-blue?style=social&logo=paypal" height="25px">
-  </a>
-  &ensp;
   <a href="https://liberapay.com/pervoj">
     <img src="https://img.shields.io/badge/Liberapay-donate-blue?style=social&logo=liberapay&logoColor=F6C915" height="25px">
+  </a>
+  &ensp;
+  <a href="https://www.paypal.com/donate/?hosted_button_id=7P3BD55QX6B9J">
+    <img src="https://img.shields.io/badge/PayPal-donate-blue?style=social&logo=paypal" height="25px">
   </a>
 </p>
 <br>
