@@ -1,16 +1,19 @@
-<p align="center">
-  <a href="https://liberapay.com/pervoj">
-    <img src="https://img.shields.io/badge/Liberapay-donate-blue?style=social&logo=liberapay&logoColor=F6C915" height="25px">
-  </a>
-  &ensp;
-  <a href="https://www.paypal.com/donate/?hosted_button_id=7P3BD55QX6B9J">
-    <img src="https://img.shields.io/badge/PayPal-donate-blue?style=social&logo=paypal" height="25px">
-  </a>
-</p>
-<br>
 <p align="center"><img src="assets/bitmoji.png" height="200px" width="200px"></p>
 <h1 align="center">Hi there 👋, my name is Vojtěch Perník</h1>
 <h3 align="center">FOSS user, developer and translator</h3>
+<p align="center">
+  <a href="https://liberapay.com/pervoj">
+    <img src="https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge&logo=liberapay" height="25px">
+  </a>
+  &ensp;
+  <a href="https://www.paypal.com/donate/?hosted_button_id=7P3BD55QX6B9J">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal" height="25px">
+  </a>
+</p>
+<br>
+
+My name is <strong>Vojtěch Perník</strong> and I'm 15 years old. I&nbsp;like to use a nickname <strong>pervoj</strong>. I&nbsp;am from Czech Republic. My big hobby is programming. I&nbsp; can program in Java, PHP, JavaScript, Python and Vala. I&nbsp;am Linux user.
+
 <p align="center">
   <a href="mailto:info@pervoj.cz">
     <img src="https://img.shields.io/badge/E--Mail-info%40pervoj.cz-blue?style=social&logo=mail.ru&logoColor=005FF9" height="25px">
@@ -28,9 +31,6 @@
     <img src="https://img.shields.io/badge/Gitter-%40pervoj-blue?style=social&logo=gitter&logoColor=ED1965" height="25px">
   </a>
 </p>
-<br>
-
-My name is <strong>Vojtěch Perník</strong> and I'm 15 years old. I&nbsp;like to use a nickname <strong>pervoj</strong>. I&nbsp;am from Czech Republic. My big hobby is programming. I&nbsp; can program in Java, PHP, JavaScript, Python and Vala. I&nbsp;am Linux user.
 
 I'm also a freelance translator. I translate open-source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
 
