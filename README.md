@@ -3,11 +3,11 @@
 <h3 align="center">FOSS user, developer and translator</h3>
 <p align="center">
   <a href="https://liberapay.com/pervoj">
-    <img src="https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge&logo=liberapay" height="25px">
+    <img src="https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge&logo=liberapay">
   </a>
   &ensp;
   <a href="https://www.paypal.com/donate/?hosted_button_id=7P3BD55QX6B9J">
-    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal" height="25px">
+    <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal">
   </a>
 </p>
 <br>
