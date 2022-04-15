@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/badge/Liberapay-Donate-F6C915?style=for-the-badge&logo=liberapay">
   </a>
   &ensp;
+  <a href="https://ko-fi.com/pervoj">
+    <img src="https://img.shields.io/badge/Ko--fi-Donate-FF5E5B?style=for-the-badge&logo=kofi">
+  </a>
+  &ensp;
   <a href="https://www.paypal.com/donate/?hosted_button_id=7P3BD55QX6B9J">
     <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal">
   </a>
