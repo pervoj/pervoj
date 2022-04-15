@@ -88,6 +88,12 @@ If you find an mistake in any of my translations, let me know at [translations@p
     <td>https://github.com/sonnyp/Commit</td>
   </tr>
   <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/Rafostar/clapper/master/data/com.github.rafostar.Clapper.svg"></td>
+    <td>Clapper</td>
+    <td>Clapper</td>
+    <td>https://github.com/Rafostar/clapper</td>
+  </tr>
+  <tr>
     <td><img height="32px" src="https://raw.githubusercontent.com/dialect-app/dialect/main/data/com.github.gi_lom.dialect.svg"></td>
     <td>Dialect</td>
     <td>Dialekt</td>
