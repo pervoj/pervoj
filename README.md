@@ -41,35 +41,106 @@ I'm also a freelance translator. I translate open-source projects into Czech. So
 Here, on my GitHub, you can find all of my projects. I love the vision of open-source software and also all my projects are open-source.
 
 - 🔭 I’m currently working on:
-  - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo)
-  - [VocaPad](https://github.com/vocapad) – simple and open source vocabulary notebook
-  - [Transganizer](https://github.com/transganizer) – organization aplication for translators
+  - [**Synchrony**](https://github.com/pervoj/Synchrony) – Sync your clouds
+  <!-- - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo) -->
 - 👯 I’m looking to collaborate on projects that need Czech translation. And also on some simple ones that I can understand and contribute to code.
 - 🙂 Pronouns: **he/him**
-
-<details>
-  <summary>Projects I've translated</summary>
-  <table>
-    <tr>  <th>Original project name</th>  <th>Czech project name</th>  <th>Project homepage</th>  </tr>
-    <tr>  <td>Badger</td>  <td>Badger</td>  <td>https://github.com/elfenware/badger</td>  </tr>
-    <tr>  <td>Blanket</td>  <td>Deka</td>  <td>https://github.com/rafaelmardojai/blanket</td>  </tr>
-    <tr>  <td>Bottles</td>  <td>Láhve</td>  <td>https://github.com/bottlesdevs/Bottles</td>  </tr>
-    <tr>  <td>Breathing</td>  <td>Dýchání</td>  <td>https://github.com/SeaDve/Breathing</td>  </tr>
-    <tr>  <td>Commit</td>  <td>Commit</td>  <td>https://github.com/sonnyp/Commit</td>  </tr>
-    <tr>  <td>Dialect</td>  <td>Dialekt</td>  <td>https://github.com/dialect-app/dialect</td>  </tr>
-    <tr>  <td>Drawing</td>  <td>Kreslení</td>  <td>https://github.com/maoschanz/drawing</td>  </tr>
-    <tr>  <td>Dynamic Wallpaper Editor</td>  <td>Editor dynamických tapet</td>  <td>https://github.com/maoschanz/dynamic-wallpaper-editor</td>  </tr>
-    <tr>  <td>Kooha</td>  <td>Kooha</td>  <td>https://github.com/SeaDve/Kooha</td>  </tr>
-    <tr>  <td>Mousai</td>  <td>Mousai</td>  <td>https://github.com/SeaDve/Mousai</td>  </tr>
-    <tr>  <td>Share Preview</td>  <td>Náhled sdílení</td>  <td>https://github.com/rafaelmardojai/share-preview</td>  </tr>
-    <tr>  <td>Video Downloader</td>  <td>Video Downloader</td>  <td>https://github.com/Unrud/video-downloader</td>  </tr>
-    <tr>  <td>Webfont Kit Generator</td>  <td>Generátor webových sad písem</td>  <td>https://github.com/rafaelmardojai/webfont-kit-generator</td>  </tr>
-    <!-- <tr>  <td></td>  <td></td>  <td></td>  </tr> -->
-  </table>
-  <p>If you find an mistake in any of my translations, let me know at <a href="mailto:translations@pervoj.cz">translations@pervoj.cz</a>.</p>
-</details>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pervoj&theme=react&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pervoj&theme=react&layout=compact">
 </p>
+
+## Projects I've translated
+
+If you find an mistake in any of my translations, let me know at [translations@pervoj.cz](mailto:translations@pervoj.cz).
+
+<table>
+  <tr>  <th></th>  <th>Original project name</th>  <th>Czech project name</th>  <th>Project homepage</th>  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/elfenware/badger/main/data/icons/128/com.github.elfenware.badger.svg"></td>
+    <td>Badger</td>
+    <td>Badger</td>
+    <td>https://github.com/elfenware/badger</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/rafaelmardojai/blanket/master/brand/logo.svg"></td>
+    <td>Blanket</td>
+    <td>Blanket</td>
+    <td>https://github.com/rafaelmardojai/blanket</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/bottlesdevs/Bottles/master/data/icons/hicolor/scalable/apps/com.usebottles.bottles.svg"></td>
+    <td>Bottles</td>
+    <td>Láhve</td>
+    <td>https://github.com/bottlesdevs/Bottles</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/SeaDve/Breathing/main/data/logo/io.github.seadve.Breathing.svg"></td>
+    <td>Breathing</td>
+    <td>Dýchání</td>
+    <td>https://github.com/SeaDve/Breathing</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/sonnyp/Commit/main/data/icons/re.sonny.Commit.svg"></td>
+    <td>Commit</td>
+    <td>Commit</td>
+    <td>https://github.com/sonnyp/Commit</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/dialect-app/dialect/main/data/com.github.gi_lom.dialect.svg"></td>
+    <td>Dialect</td>
+    <td>Dialekt</td>
+    <td>https://github.com/dialect-app/dialect</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/maoschanz/drawing/master/data/icons/hicolor/scalable/apps/com.github.maoschanz.drawing.svg"></td>
+    <td>Drawing</td>
+    <td>Kreslení</td>
+    <td>https://github.com/maoschanz/drawing</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/maoschanz/dynamic-wallpaper-editor/master/data/icons/hicolor/scalable/apps/com.github.maoschanz.DynamicWallpaperEditor.svg"></td>
+    <td>Dynamic Wallpaper Editor</td>
+    <td>Editor dynamických tapet</td>
+    <td>https://github.com/maoschanz/dynamic-wallpaper-editor</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/SeaDve/Kooha/main/data/icons/io.github.seadve.Kooha.svg"></td>
+    <td>Kooha</td>
+    <td>Kooha</td>
+    <td>https://github.com/SeaDve/Kooha</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/SeaDve/Mousai/main/data/icons/io.github.seadve.Mousai.svg"></td>
+    <td>Mousai</td>
+    <td>Mousai</td>
+    <td>https://github.com/SeaDve/Mousai</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/rafaelmardojai/share-preview/master/brand/logo.svg"></td>
+    <td>Share Preview</td>
+    <td>Náhled sdílení</td>
+    <td>https://github.com/rafaelmardojai/share-preview</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/Unrud/video-downloader/master/data/com.github.unrud.VideoDownloader.svg"></td>
+    <td>Video Downloader</td>
+    <td>Video Downloader</td>
+    <td>https://github.com/Unrud/video-downloader</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/rafaelmardojai/webfont-kit-generator/master/brand/icon.svg"></td>
+    <td>Webfont Kit Generator</td>
+    <td>Generátor webových sad písem</td>
+    <td>https://github.com/rafaelmardojai/webfont-kit-generator</td>
+  </tr>
+  <!--
+  <tr>
+    <td><img height="32px" src=""></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  -->
+</table>
