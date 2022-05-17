@@ -94,7 +94,7 @@ If you find an mistake in any of my translations, let me know at [translations@p
     <td>https://github.com/Rafostar/clapper</td>
   </tr>
   <tr>
-    <td><img height="32px" src="https://raw.githubusercontent.com/dialect-app/dialect/main/data/com.github.gi_lom.dialect.svg"></td>
+    <td><img height="32px" src="https://raw.githubusercontent.com/dialect-app/dialect/main/data/app.drey.Dialect.svg"></td>
     <td>Dialect</td>
     <td>Dialekt</td>
     <td>https://github.com/dialect-app/dialect</td>
