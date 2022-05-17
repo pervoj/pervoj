@@ -82,16 +82,16 @@ If you find an mistake in any of my translations, let me know at [translations@p
     <td>https://github.com/SeaDve/Breathing</td>
   </tr>
   <tr>
-    <td><img height="32px" src="https://raw.githubusercontent.com/sonnyp/Commit/main/data/icons/re.sonny.Commit.svg"></td>
-    <td>Commit</td>
-    <td>Commit</td>
-    <td>https://github.com/sonnyp/Commit</td>
-  </tr>
-  <tr>
     <td><img height="32px" src="https://raw.githubusercontent.com/Rafostar/clapper/master/data/com.github.rafostar.Clapper.svg"></td>
     <td>Clapper</td>
     <td>Clapper</td>
     <td>https://github.com/Rafostar/clapper</td>
+  </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/sonnyp/Commit/main/data/icons/re.sonny.Commit.svg"></td>
+    <td>Commit</td>
+    <td>Commit</td>
+    <td>https://github.com/sonnyp/Commit</td>
   </tr>
   <tr>
     <td><img height="32px" src="https://raw.githubusercontent.com/dialect-app/dialect/main/data/app.drey.Dialect.svg"></td>
