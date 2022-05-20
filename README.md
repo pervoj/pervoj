@@ -141,6 +141,12 @@ If you find an mistake in any of my translations, let me know at [translations@p
     <td>Generátor webových sad písem</td>
     <td>https://github.com/rafaelmardojai/webfont-kit-generator</td>
   </tr>
+  <tr>
+    <td><img height="32px" src="https://raw.githubusercontent.com/sonnyp/Workbench/main/data/icons/hicolor/scalable/apps/re.sonny.Workbench.svg"></td>
+    <td>Workbench</td>
+    <td>Workbench</td>
+    <td>https://github.com/sonnyp/Workbench</td>
+  </tr>
   <!--
   <tr>
     <td><img height="32px" src=""></td>
