@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/photo.svg" height="200px" width="200px"></p>
+<p align="center"><img src="photo.svg" height="200px" width="200px"></p>
 <h1 align="center">Hi there 👋, my name is Vojtěch Perník</h1>
 <h3 align="center">FOSS user, developer and translator</h3>
 <p align="center">
