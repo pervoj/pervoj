@@ -31,12 +31,8 @@ My name is <strong>Vojtěch Perník</strong> and I'm 15 years old. I&nbsp;like t
     <img src="https://img.shields.io/badge/Discord-%40pervoj%20%237719-blue?style=social&logo=discord&logoColor=5865F2" height="25px">
   </a>
   &ensp;
-  <a href="https://twitter.com/pervojcz">
-    <img src="https://img.shields.io/badge/Twitter-%40pervojcz-blue?style=social&logo=twitter&logoColor=1DA1F2" height="25px">
-  </a>
-  &ensp;
-  <a href="https://gitter.im/pervoj">
-    <img src="https://img.shields.io/badge/Gitter-%40pervoj-blue?style=social&logo=gitter&logoColor=ED1965" height="25px">
+  <a href="https://matrix.to/#/@pervoj:matrix.org">
+    <img src="https://img.shields.io/badge/Matrix-%40pervoj:matrix.org-blue?style=social&logo=matrix&logoColor=000000" height="25px">
   </a>
 </p>
 
