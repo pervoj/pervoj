@@ -20,7 +20,7 @@
 </p>
 <br>
 
-My name is <strong>Vojtěch Perník</strong> and I'm 15 years old. I&nbsp;like to use a nickname <strong>pervoj</strong>. I&nbsp;am from Czech Republic. My big hobby is programming. I&nbsp; can program in Java, PHP, JavaScript, Python and Vala. I&nbsp;am Linux user.
+I'm **Vojtěch Perník**, a young programmer from Czechia, who likes to use a nickname **pervoj**. I can program in Vala, JavaScript, Python, Java and PHP. I love the vision of open source software and also all my projects are open source and can be found here on GitHub. I also completely switched to Linux in 2020 and now I am using Fedora.
 
 <p align="center">
   <a href="mailto:info@pervoj.cz">
@@ -37,8 +37,6 @@ My name is <strong>Vojtěch Perník</strong> and I'm 15 years old. I&nbsp;like t
 </p>
 
 I'm also a freelance translator. I translate open-source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
-
-Here, on my GitHub, you can find all of my projects. I love the vision of open-source software and also all my projects are open-source.
 
 - 🔭 I’m currently working on:
   - [**Synchrony**](https://github.com/pervoj/Synchrony) – Sync your clouds
