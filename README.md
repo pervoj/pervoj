@@ -1,3 +1,9 @@
+<table align="center"><tr><td>
+  <h2 align="center">🦊️&ensp;GitLab&ensp;🦊️</h2>
+  <h3 align="center">I switched to GitLab</h3>
+  <p>Visit my GitLab: https://gitlab.com/pervoj</p>
+</td></tr></table>
+
 <h1 align="center">Hi there 👋, my name is Vojtěch Perník</h1>
 <h3 align="center">FOSS user, developer and translator</h3>
 <p align="center">
