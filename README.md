@@ -25,7 +25,7 @@
 </p>
 <br>
 
-I'm **Vojtěch Perník**, a young programmer from Czechia, who likes to use a nickname **pervoj**. I can program in Vala, JavaScript, Python, Java and PHP. I love the vision of open source software and also all my projects are open source and can be found here on GitHub. I also completely switched to Linux in 2020 and now I am using Fedora.
+I'm **Vojtěch Perník**, a young programmer from Czechia, who likes to use a nickname **pervoj**. I can program in Vala, JavaScript, Python, Java and PHP. I love the vision of open source software and also all my projects are open source and can be found on my [GitLab](https://gitlab.com/pervoj). I also completely switched to Linux in 2020 and now I am using Fedora.
 
 <p align="center">
   <a href="mailto:info@pervoj.cz">
@@ -44,7 +44,8 @@ I'm **Vojtěch Perník**, a young programmer from Czechia, who likes to use a ni
 I'm also a freelance translator. I translate open-source projects into Czech. So if you are interested in translating or updating the translation of your application, just let me know.
 
 - 🔭 I’m currently working on:
-  - [**Synchrony**](https://github.com/pervoj/Synchrony) – Sync your clouds
+  - [**Fedora Config**](https://gitlab.com/pervoj/fedoraconfig) – A script that takes Fedora from usable to comfortable
+  - [**Synchrony**](https://gitlab.com/pervoj/Synchrony) – Sync your clouds
   <!-- - [Valdo GTK](https://github.com/pervoj/valdo-gtk) – GTK frontend for [Valdo](https://github.com/Prince781/valdo) -->
 - 👯 I’m looking to collaborate on projects that need Czech translation. And also on some simple ones that I can understand and contribute to code.
 - 🙂 Pronouns: **he/him**
