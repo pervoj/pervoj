@@ -32,7 +32,7 @@ I'm **Vojtěch Perník**, a young programmer from Czechia, who likes to use a ni
     <img src="https://img.shields.io/badge/Matrix-%40pervoj:matrix.org-blue?style=social&logo=matrix&logoColor=000000" height="25px">
   </a>
   &ensp;
-  <a href="https://discordapp.com/users/641536036169711617">
+  <a href="https://mastodon.social/@pervoj">
     <img src="https://img.shields.io/badge/Mastodon-%40pervoj%40mastodon.social-blue?style=social&logo=mastodon&logoColor=3088D4" height="25px">
   </a>
 </p>
